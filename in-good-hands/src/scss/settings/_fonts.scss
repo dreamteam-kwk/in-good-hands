@@ -1,0 +1,8 @@
+$font-alt
+
+$font-base {
+  font-family: "Myfont";
+  src: local("Myfont"),
+  url("my_font.woff2") format("woff2"),
+  url("my_font.woff") format("woff");
+}
